@@ -2,7 +2,7 @@ document.addEventListener('DOMContentLoaded', () => {
 	const link = document.createElement('link');
 	link.rel = 'stylesheet';
 	link.type = 'text/css';
-	link.href = 'styles.css';
+	link.href = 'style.css';
 	document.head.appendChild(link);
 });
 document.addEventListener('DOMContentLoaded', function() {
