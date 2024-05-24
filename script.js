@@ -1,3 +1,10 @@
+document.addEventListener('DOMContentLoaded', () => {
+	const link = document.createElement('link');
+	link.rel = 'stylesheet';
+	link.type = 'text/css';
+	link.href = 'styles.css';
+	document.head.appendChild(link);
+});
 document.addEventListener('DOMContentLoaded', function() {
   // QuerySelectors for HTML elements
   const birthdayTime = document.querySelector('#birthdayTime');
