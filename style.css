@@ -1,6 +1,9 @@
 body {
-	background-color: #fc7a7a;
-	font-family: Sitka, subheading;
+	background-image: url('C:\Users\More\Documents\GitHub');
+  	background-size: cover;
+  	background-repeat: no-repeat;
+ 	background-position: center center;
+	font-family: Lucida Handwriting, Cursive;
 	margin: 0;
 	padding: 0;
 }
