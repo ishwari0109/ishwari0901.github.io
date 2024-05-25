@@ -1,5 +1,5 @@
 body {
-	background-image: url('https://png.pngtree.com/thumb_back/fh260/background/20210128/pngtree-red-clean-love-background-image_548907.jpg');
+	background-image: url('https://cdn.wallpapersafari.com/34/7/g3yDqc.jpg');
   	background-size: cover;
   	background-repeat: no-repeat;
  	background-position: center center;
@@ -8,7 +8,7 @@ body {
 }
 
 .container {
-	background-color: #fab0b3;
+	background-color: #f1b4b6;
 	border: 0.75px solid #110505;
 	border-radius: 4px;
 	box-shadow: 0 1.5px 3.5px rgba(0, 0, 0, 0.1);
@@ -79,7 +79,3 @@ video {
     animation-delay: calc(var(--delay) * .1s);
 }
 
-video {
-	display: block;
-	margin: 0 auto;
-}
