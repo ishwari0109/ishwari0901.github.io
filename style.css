@@ -57,7 +57,7 @@ body {
         transform: rotate(-45deg) scale(1.07);
     }
     100% {
-        transform: rotate(-45deg) scale(1.0);
+        transform: rotate(-45deg) scale(0.8);
     }
     100% {
         transform: rotate(-45deg) scale(0.8);
