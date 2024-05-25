@@ -59,18 +59,18 @@ video {
 }
 
 .heart:before {
-    top: -5px;
-    left: -5px;
-    width: 100px;
-    height: 100px;
+    top: -7px;
+    left: -7px;
+    width: 90px;
+    height: 90px;
     background: linear-gradient(45deg, #e66, #f09);
     box-shadow: 0 0 10px rgba(255, 0, 0, 0.5);
     filter: blur(2px);
 }
 
 .heart:after {
-    top: 5px;
-    left: 5px;
+    top: 7px;
+    left: 7px;
     width: 90px;
     height: 90px;
     background: linear-gradient(45deg, #f09, #e66);
